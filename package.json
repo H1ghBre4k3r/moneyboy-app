@@ -70,7 +70,7 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-react-native": "^4.0.0",
     "jest": "^27.5.1",
-    "jest-mock-extended": "^1.0.13",
+    "jest-mock-extended": "^3.0.7",
     "metro-react-native-babel-preset": "^0.66.2",
     "npm-license-crawler": "^0.2.1",
     "react-test-renderer": "17.0.2",
